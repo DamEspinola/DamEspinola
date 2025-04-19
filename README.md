@@ -1,15 +1,14 @@
 # 👋 ¡Hola! Soy Daniel Espinola
-
 - 🚀 Desarrollador con 4 años de experiencia en tecnologías full-stack.
 - 🌟 Apasionado por mejorar la experiencia del usuario y aplicar principios de Clean Code.
 - 📫 ¿Quieres colaborar? Escríbeme a [britezespinola19@gmail.com](mailto:britezespinola19@gmail.com).
-
 ---
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=DamEspinola)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- El widget de arriba mostrará tus estadísticas reales automáticamente cuando lo implementes con tu usuario -->
-
 ## 💻 Tecnologías que uso
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,24 +16,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-## 📊 Mi enfoque como desarrollador
-
-```mermaid
-graph TD
-    A[Código limpio] --> B[Pruebas sólidas]
-    A --> C[Arquitectura escalable]
-    B --> D[Entrega continua]
-    C --> D
-    D --> E[Valor para usuarios]
-```
-## 📈 Contribuciones
-
-```mermaid
-pie title Mis Contribuciones en 2024
-    "Commits" : 168
-    "Pull Requests" : 24
-    "Code Reviews" : 37
-```
+## 📊 Mis estadísticas de GitHub
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DamEspinola&langs_count=8&count_private=true&layout=compact&theme=dark" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DamEspinola&count_private=true&show_icons=true&theme=dark" alt="danielespinola" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DamEspinola&count_private=true&theme=dark" alt="danielespinola" /></p>
 
 ## 😺 Programando con estilo
 ![Gato codeando](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
