@@ -18,7 +18,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ## 📊 Mis estadísticas de GitHub
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DamEspinola&langs_count=8&count_private=true&layout=compact&theme=dark" />
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DamEspinola&langs_count=10&count_private=true&layout=compact&theme=dark" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DamEspinola&count_private=true&show_icons=true&theme=dark" alt="danielespinola" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DamEspinola&count_private=true&theme=dark" alt="danielespinola" /></p>
 
