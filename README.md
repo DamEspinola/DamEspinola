@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Daniel Espinola
-- 🚀 Desarrollador con 5 años de experiencia en tecnologías full-stack.
+- 🚀 Desarrollador con 4 años de experiencia en tecnologías full-stack.
 - 🌟 Apasionado por mejorar la experiencia del usuario y aplicar principios de Clean Code.
 - 📫 ¿Quieres colaborar? Escríbeme a [britezespinola19@gmail.com](mailto:britezespinola19@gmail.com).
 ---
