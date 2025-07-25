@@ -17,18 +17,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-## 📊 Mis estadísticas de GitHub
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DamEspinola&langs_count=10&count_private=true&layout=compact&theme=dark" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DamEspinola&count_private=true&theme=dark" alt="danielespinola" /></p>
-
 ## 😺 Programando con estilo
 ![Gato codeando](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-<!--
-Instrucciones para implementar:
-1. Crea un repositorio con exactamente el mismo nombre que tu nombre de usuario
-2. Copia este contenido en el archivo README.md
-3. Reemplaza "danielespinola" con tu nombre de usuario real en todas las URLs
-4. Actualiza los nombres y enlaces de tus proyectos destacados
-5. El gráfico y las estadísticas se actualizarán automáticamente
--->
