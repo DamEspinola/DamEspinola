@@ -4,9 +4,6 @@
 - 📫 ¿Quieres colaborar? Escríbeme a [britezespinola19@gmail.com](mailto:britezespinola19@gmail.com).
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=DamEspinola&theme=gitdimmed)
-
 <!-- El widget de arriba mostrará tus estadísticas reales automáticamente cuando lo implementes con tu usuario -->
 ## 💻 Tecnologías que uso
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
